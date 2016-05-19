@@ -1,7 +1,8 @@
 /*
  * Scabble letter checker, checks and prints the top 10 best words to use in scrabble
  *  with a given inputed String of letters
- * @author Brendan Egan
+ * @author Brendan Egan 
+ * Git changes to test
  */
 package Lab4;
 import java.util.*;
